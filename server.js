@@ -13,7 +13,7 @@ const SECRET_KEY = process.env.JWT_SECRET || 'your-secret-key';
 // CORS configuration
 const corsOptions = {
   origin: process.env.NODE_ENV === 'production' 
-    ? ['https://your-vercel-app-domain.vercel.app', 'http://localhost:5177']
+    ? ['https://deployementclient.vercel.app', 'http://localhost:5177']
     : 'http://localhost:5177',
   credentials: true,
   optionsSuccessStatus: 200
