@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": "d2a2",
+      "username": "ddattu005",
+      "email": "ddattu005@gmail.com",
+      "password": "fan100@"
+    },
+    {
+      "id": "663e",
+      "username": "ddattu005",
+      "email": "ddattu005@gmail.com",
+      "password": "fan100@"
+    },
+    {
+      "id": "61ff",
+      "username": "dattu005",
+      "email": "dattu005@gmail.com",
+      "password": "fan100@",
+      "fullName": "Dattu Raghunandan",
+      "phone": "8106209297",
+      "accountType": "Trader"
+    },
+    {
+      "id": "f7eb",
+      "username": "raju100",
+      "email": "raju100@gmail.com",
+      "password": "raju",
+      "fullName": "raju",
+      "phone": "9999999999",
+      "accountType": "Investor"
+    },
+    {
+      "id": "8f68",
+      "username": "aa",
+      "email": "aa@gmail.com",
+      "password": "aa",
+      "fullName": "aaa",
+      "phone": "99999999999",
+      "accountType": "Investor"
+    }
+  ],
+  "stocks": [],
+  "transactions": []
+}
